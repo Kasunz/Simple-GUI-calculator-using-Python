@@ -10,7 +10,6 @@ The calculator features a clear display screen and buttons for numbers, operatio
 - Basic Operations: Supports addition, subtraction, multiplication, and division.
 - Clear Function: Allows the user to clear the display and start a new calculation.
 - Result Display: Shows the result of the calculation on the display screen.
-- Error Handling: Handles basic errors, such as division by zero, and provides feedback.
 
 ## Technologies Used
 - Python 3.x
